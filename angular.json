@@ -39,7 +39,10 @@
                 "input": "src/global.scss"
               }
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jsencrypt.js",
+              "src/assets/js/communicate2Angular.js"
+            ]
           },
           "configurations": {
             "production": {
